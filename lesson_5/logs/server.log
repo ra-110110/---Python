@@ -1,0 +1,8 @@
+2021-07-12 05:26:15,955 CRITICAL configuration_server.py Критическая ошибка
+2021-07-12 05:26:15,955 ERROR configuration_server.py Ошибка
+2021-07-12 05:26:15,955 DEBUG configuration_server.py Отладочная информация
+2021-07-12 05:26:15,955 INFO configuration_server.py Информационное сообщение
+2021-07-12 05:32:35,446 CRITICAL configuration_server.py Критическая ошибка
+2021-07-12 05:32:35,446 ERROR configuration_server.py Ошибка
+2021-07-12 05:32:35,446 DEBUG configuration_server.py Отладочная информация
+2021-07-12 05:32:35,447 INFO configuration_server.py Информационное сообщение
