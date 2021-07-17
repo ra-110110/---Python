@@ -1,0 +1,4 @@
+2021-07-17 04:31:42,819 CRITICAL configuration_server.py Критическая ошибка
+2021-07-17 04:31:42,819 ERROR configuration_server.py Ошибка
+2021-07-17 04:31:42,819 DEBUG configuration_server.py Отладочная информация
+2021-07-17 04:31:42,819 INFO configuration_server.py Информационное сообщение
