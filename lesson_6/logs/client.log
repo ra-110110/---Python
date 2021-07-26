@@ -1,0 +1,12 @@
+2021-07-17 04:29:29,345 CRITICAL configuration_client.py Критическая ошибка
+2021-07-17 04:29:29,346 ERROR configuration_client.py Ошибка
+2021-07-17 04:29:29,346 DEBUG configuration_client.py Отладочная информация
+2021-07-17 04:29:29,346 INFO configuration_client.py Информационное сообщение
+2021-07-17 04:29:34,690 CRITICAL configuration_client.py Критическая ошибка
+2021-07-17 04:29:34,690 ERROR configuration_client.py Ошибка
+2021-07-17 04:29:34,690 DEBUG configuration_client.py Отладочная информация
+2021-07-17 04:29:34,690 INFO configuration_client.py Информационное сообщение
+2021-07-17 04:31:39,656 CRITICAL configuration_client.py Критическая ошибка
+2021-07-17 04:31:39,656 ERROR configuration_client.py Ошибка
+2021-07-17 04:31:39,656 DEBUG configuration_client.py Отладочная информация
+2021-07-17 04:31:39,656 INFO configuration_client.py Информационное сообщение
